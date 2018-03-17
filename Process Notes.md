@@ -2,4 +2,4 @@ It took me a bit to figure out the TWINE interface because when we did the donut
 
 I had a little trouble putting the 3D model into the story. I checked Sketchfab and found the 'embed' link which gives you a link to copy which embeds your model into whatever you want. 
 
-I wasn't sure if the link to play the game was working or not so I emailed it to my sister and she let me know that it works. 
+After finishing my game I published it to Philome.la to make it playable for others. I wasn't sure if the link to play the game was working or not so I emailed it to my sister and she let me know that it works. 
